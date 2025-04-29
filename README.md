@@ -1,4 +1,4 @@
-# Data C101 Group Project
+# Data C101 Group Project: Database Systems Comparison
 
 
 ### Data
